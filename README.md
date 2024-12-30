@@ -1,1 +1,5 @@
-# Node-MySQL-REST-API # Node-MySQL-REST-API
+# Node-MySQL-REST-API 
+
+Tareas: 
+
+- Conexion a Base de datos
