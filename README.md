@@ -1,7 +1,7 @@
 # Node-MySQL-REST-API 
 
 
-Tareas: 
+Task list: 
 
 - Conexion a Base de datos
 
